@@ -143,6 +143,13 @@ parrafo("recorrido obtenido valores (contenido)");
 for (v of caja_semanal){
     parrafo(v);
 }
+var numero = 2 
+function miFuncion (){
+     var numero = 19
+      document.write(numero) 
+     //imprime 19
+ } 
+ 
 
 //recorrer una palabra se lo trta como un seudo arreglo
 //no todos los propiedades funcionan
